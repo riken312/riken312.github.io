@@ -175,8 +175,11 @@ footer
 
 #logo img
 {
-    width: 200px;
+    width: 300px;
+    padding: 50px;
 }
+
+
 
 h2
 {
@@ -186,9 +189,33 @@ h2
 
 .blank
 {
-    padding: 20px;
-=
+    padding: 200px;
 }
+
+.project-head img
+{
+    width: 375px;
+
+}
+
+.post-header
+{
+    color: #3b175e;
+    
+}
+
+.project
+{
+    color: black;
+
+}
+
+.project img
+{
+    border-radius: 10px;
+
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
