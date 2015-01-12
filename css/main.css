@@ -179,6 +179,12 @@ footer
     padding: 50px;
 }
 
+#under_cons img
+{
+    width: 300px;
+    
+}
+
 
 
 h2
@@ -197,6 +203,7 @@ h2
     width: 375px;
 
 }
+
 
 .post-header
 {
