@@ -58,15 +58,31 @@ hr {
 .link a{
     text-decoration: none;
     color:rgb(89,211,124);
-    font-family: "Roboto Slab", georgia;
-    font-size: 24px; 
+    font-family: "Roboto", georgia;
+    font-size: 24px;
+    
 }
 
 
 .link a:hover{
     color:rgb(150,250,150);
-    font-family: "Roboto Slab", georgia;
+    font-family: "Roboto", georgia;
     font-size: 24px; 
+}
+
+.contact{
+    color:rgb(200,200,200);
+    font-family: "Roboto", georgia;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+#portfolio
+{
+   text-decoration: none;
+   color:rgb(89,211,124);
+   font-family: "Roboto Slab", georgia;
+   font-size: 18px;  
 }
 /*
  * Remove the gap between images, videos, audio and canvas and the bottom of
@@ -130,6 +146,8 @@ textarea {
    font-family: "Roboto Slab", georgia;
    font-size: 24px; 
 }
+
+
 
 #under_the_hood
 {
